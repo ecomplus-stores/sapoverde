@@ -1,26 +1,26 @@
 {
   "domain": "sapoverdemodafeminina.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#b5afaf",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#ebebeb",
   "repository": "ecomplus-stores/sapoverde",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/99199f6f-d6a7-4927-8066-5052816e8c12.png",
   "name": "Sapo Verde Moda Feminin",
-  "short_name": "sapoverde",
+  "short_name": "Sapo Verde",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/amlmll9g.ico",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#699686",
+  "icon": "/img/uploads/80290eed-f14d-4275-b3cf-dfd3e31da1fc.png",
   "store_id": 51500,
-  "description": "sapoverde",
-  "large_icon": "/img/large-icon.png"
+  "description": "Lojas Sapo Verde, a marca com a maior variedade de blusas e tshirts no Brás, no ramo de atacado!",
+  "large_icon": "/img/uploads/80290eed-f14d-4275-b3cf-dfd3e31da1fc.png"
 }
