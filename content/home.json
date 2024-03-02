@@ -3,19 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/img_2793-1-.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": ""
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/img_2793-1-.png"
     },
     {
       "type": "info-bar",
