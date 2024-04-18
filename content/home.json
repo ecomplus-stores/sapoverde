@@ -3,6 +3,17 @@
   "meta_description": "",
   "sections": [
     {
+      "autoplay": 0,
+      "page": 1,
+      "title": "",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "limit": 12,
+      "collection_id": "65e9cc1987ab487fbfda2b8c:categories:BLUSAS PLUS SIZE VERÃO:/blusas-plus-size",
+      "sort": "highest_price"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -24,16 +35,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "65e0863c87ab487fbfcead67:categories:CONJUNTOS:/conjuntos",
-      "sort": "news",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
     }
   ]
 }
