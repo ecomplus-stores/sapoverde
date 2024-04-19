@@ -3,22 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
-      "autoplay": 0,
-      "page": 1,
-      "title": "",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": 12,
-      "collection_id": "65e9cc1987ab487fbfda2b8c:categories:BLUSAS PLUS SIZE VERÃO:/blusas-plus-size",
-      "sort": "highest_price"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -36,6 +20,22 @@
           "link": "https://sapoverdemodafeminina.com.br/conjunto-alice-em-lazinha-premium-plus-size"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
+    },
+    {
+      "autoplay": 0,
+      "page": 1,
+      "title": "",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "limit": 12,
+      "collection_id": "65e9cc1987ab487fbfda2b8c:categories:BLUSAS PLUS SIZE VERÃO:/blusas-plus-size",
+      "sort": "highest_price"
     },
     {
       "type": "info-bar",
