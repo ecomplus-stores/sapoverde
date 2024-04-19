@@ -3,6 +3,11 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
+    },
+    {
       "autoplay": 0,
       "page": 1,
       "title": "",
