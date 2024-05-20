@@ -2,12 +2,12 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "Aproveite nossos descontos de até 40%!",
     "link": "/promotion"
   },
   "alphabetical_order_submenu": false,
