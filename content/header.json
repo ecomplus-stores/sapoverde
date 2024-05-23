@@ -8,7 +8,9 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#079c2f",
+    "color": "#0d0d0d"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
