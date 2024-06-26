@@ -40,7 +40,7 @@
       "type": "collection-shelf",
       "limit": 12,
       "collection_id": "65e0863c87ab487fbfcead67:categories:CONJUNTOS:/conjuntos",
-      "sort": "highest_price"
+      "sort": "lowest_price"
     },
     {
       "type": "info-bar",
