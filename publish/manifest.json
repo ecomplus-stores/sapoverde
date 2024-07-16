@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.09eddddf4cd032563f3a733c10c28d62.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4cdbe91d733ca76cc6402e8e0600c3a9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e0991313491cc06d8f6225c96730afe1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.fb86859ed600cc2947e2fd1e2bb32bc1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8d0193c8f9904e920b2f4577cd20a60d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Sapo Verde Moda Feminina",
+  "short_name": "Sapo Verde",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "SAPO VERDE, A LOJA DE MODA FEMININA ESPECIALIZADA EM VISCOLYCRA DE ALTA QUALIDADE. UMA GRANDE VARIEDADE DE MODELOS DE BLUSAS EM VISCOLYCRA COM APLICAÇÕES E DETALHES EM PEDRARIA, TAMANHOS DO P AO G4. SAPO VERDE,O BOM GOSTO ALIADO A SENSIBILIDADE DA MULHER MODERNA, QUE ESTAR SEMPRE BEM VESTIDA. SAPO VERDE, O BRILHO DA MODA FEMININA.",
+  "background_color": "#ebebeb",
+  "theme_color": "#0d0d0d"
+}
