@@ -386,12 +386,6 @@
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/vestido-camila-em-viscolinho-premium-com-fenda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://sapoverdemodafeminina.com.br/blusa-solange-em-viscolycra-premium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -500,13 +494,13 @@
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/pages/faq</loc>
+      <loc>https://sapoverdemodafeminina.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/pages/pagamentos</loc>
+      <loc>https://sapoverdemodafeminina.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
