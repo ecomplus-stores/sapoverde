@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://sapoverdemodafeminina.com.br/conjuntos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sapoverdemodafeminina.com.br/outlet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sapoverdemodafeminina.com.br/blusas-plus-size</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sapoverdemodafeminina.com.br/blusas-p-ao-gg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sapoverdemodafeminina.com.br/blusas-plus-size-inverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sapoverdemodafeminina.com.br/blusas-p-ao-gg-inverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://sapoverdemodafeminina.com.br/conjunto-alice-em-lazinha-premium-plus-size</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -302,12 +338,6 @@
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/conjunto-thalita-em-suede-premium</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://sapoverdemodafeminina.com.br/conjunto-maristela-plus-size-em-lazinha-premium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -446,43 +476,13 @@
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/conjuntos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/outlet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/blusas-plus-size</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/blusas-p-ao-gg</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/blusas-plus-size-inverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/blusas-p-ao-gg-inverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://sapoverdemodafeminina.com.br/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://sapoverdemodafeminina.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -495,12 +495,6 @@
   
     <url>
       <loc>https://sapoverdemodafeminina.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
