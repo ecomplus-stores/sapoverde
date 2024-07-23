@@ -494,6 +494,12 @@
     </url>
   
     <url>
+      <loc>https://sapoverdemodafeminina.com.br/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://sapoverdemodafeminina.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -501,12 +507,6 @@
   
     <url>
       <loc>https://sapoverdemodafeminina.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://sapoverdemodafeminina.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -548,13 +548,13 @@
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/admin/index</loc>
+      <loc>https://sapoverdemodafeminina.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://sapoverdemodafeminina.com.br/app/index</loc>
+      <loc>https://sapoverdemodafeminina.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
