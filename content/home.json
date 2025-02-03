@@ -6,13 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2025-02-03-at-09.07.23.jpeg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "dynamic-showcase",
