@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 7000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/cupom-de.jpg"
+          "img": "/img/uploads/banner-gamm-1920-x-700-px-3-.png"
         }
       ]
     },
