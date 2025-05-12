@@ -43,10 +43,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-site.png"
+          "img": "/img/uploads/banner-sv-2-.png"
         },
         {
-          "img": "/img/uploads/banner-site-1-.png"
+          "img": "/img/uploads/banner-sv.png"
+        },
+        {
+          "img": "/img/uploads/banner-sv-1-.png"
         }
       ]
     }
