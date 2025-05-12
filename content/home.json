@@ -38,6 +38,17 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-site.png"
+        },
+        {
+          "img": "/img/uploads/banner-site-1-.png"
+        }
+      ]
     }
   ]
 }
