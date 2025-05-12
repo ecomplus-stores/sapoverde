@@ -1,11 +1,12 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "ENTREGAMOS PARA TODO O BRASIL"
   },
   "installments": {
     "show": true,
-    "text": ""
+    "text": "",
+    "title": "PARCELAMENTO NO CARTÃO DE CRÉDITO"
   },
   "exchange": {
     "show": true,
