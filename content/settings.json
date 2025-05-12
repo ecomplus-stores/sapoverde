@@ -4,7 +4,7 @@
   "primary_color": "#0d0d0d",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ebebeb",
   "repository": "ecomplus-stores/sapoverde",
