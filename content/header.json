@@ -5,17 +5,17 @@
     "full_width": true
   },
   "menu_all_departments": false,
-  "centralized_logo": false,
+  "centralized_logo": true,
   "marketing_stripe": {
-    "text": "TRANSFORME SEU GUARDA-ROUPA COM PEÇAS EXCLUSIVAS !",
+    "text": "Moda Feminina EXCLUSIVA do P ao G4",
     "link": "/promotion",
     "background": "#57a66c",
-    "color": "#0d0d0d"
+    "color": "#ffffff"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
