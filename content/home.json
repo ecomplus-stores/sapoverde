@@ -43,13 +43,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-sv-2-.png"
+          "img": "/img/uploads/banner-sv.png",
+          "link": "https://sapoverdemodafeminina.com.br/blusas-p-ao-gg-inverno"
         },
         {
-          "img": "/img/uploads/banner-sv.png"
+          "img": "/img/uploads/banner-sv.png",
+          "link": "https://sapoverdemodafeminina.com.br/blusas-plus-size-inverno"
         },
         {
-          "img": "/img/uploads/banner-sv-1-.png"
+          "img": "/img/uploads/banner-sv-1-.png",
+          "link": "https://sapoverdemodafeminina.com.br/conjuntos"
         }
       ]
     }
