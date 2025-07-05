@@ -33,7 +33,7 @@
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "limit": 12,
+      "limit": 9,
       "collection_id": "65e0863c87ab487fbfcead67:categories:CONJUNTOS / VESTIDO:/conjuntos",
       "sort": "lowest_price"
     },
