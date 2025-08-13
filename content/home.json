@@ -20,20 +20,20 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "autoplay": 0,
       "page": 1,
-      "title": "",
+      "title": "Uma seleção incrível com os melhores produtos",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": 6,
       "collection_id": "6601799608d55b3b783fec52:categories:P ao GG:/paogg",
       "sort": "lowest_price"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": null
     },
     {
       "type": "info-bar",
