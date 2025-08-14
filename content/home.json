@@ -35,11 +35,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": null
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
