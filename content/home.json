@@ -22,13 +22,13 @@
     {
       "autoplay": 0,
       "page": 1,
-      "title": "Uma seleção incrível com os melhores produtos",
+      "title": "Uma seleção incrível do P ao GG",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
       "collection_id": "6601799608d55b3b783fec52:categories:P ao GG:/paogg",
-      "sort": "lowest_price"
+      "sort": "news"
     },
     {
       "type": "info-bar",
