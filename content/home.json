@@ -23,7 +23,7 @@
       "autoplay": 0,
       "page": 1,
       "title": "Uma seleção incrível com os melhores produtos",
-      "shuffle": true,
+      "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
