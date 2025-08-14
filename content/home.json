@@ -20,10 +20,10 @@
       ]
     },
     {
-      "autoplay": 0,
+      "autoplay": 1000,
       "page": 1,
       "title": "Uma seleção incrível com os melhores produtos",
-      "shuffle": false,
+      "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
