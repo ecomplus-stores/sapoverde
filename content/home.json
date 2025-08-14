@@ -22,13 +22,22 @@
     {
       "autoplay": 0,
       "page": 1,
-      "title": "Uma seleção incrível do P ao GG",
+      "title": "Uma Seleção Incrível do P ao GG",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
       "collection_id": "6601799608d55b3b783fec52:categories:P ao GG:/paogg",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6601797f08d55b3b783febcb:categories:G1 ao G4:/plussize",
+      "sort": "news",
+      "title": "Blusas Plus Size para Brilhar Todos os Dias"
     },
     {
       "type": "info-bar",
