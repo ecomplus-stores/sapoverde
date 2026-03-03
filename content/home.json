@@ -47,15 +47,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-p-ao-gg.jpg",
+          "img": "/img/uploads/banner-camisa-1.png",
           "link": "https://sapoverdemodafeminina.com.br/paogg"
         },
         {
-          "img": "/img/uploads/banner-sv-1-.jpg",
+          "img": "/img/uploads/banner-saia.png",
           "link": "https://sapoverdemodafeminina.com.br/plussize"
         },
         {
-          "img": "/img/uploads/banner-sv-2-conj.png",
+          "img": "/img/uploads/banner-calca.png",
           "link": "https://sapoverdemodafeminina.com.br/conjuntos"
         }
       ]
